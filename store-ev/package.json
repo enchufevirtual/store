@@ -4,12 +4,6 @@
   "scripts": {
     "clean": "npx rimraf --glob **/node_modules **/package-lock.json **/.next",
     "dev": "npm run dev --workspaces --if-present",
-    "build": "npm run build --workspaces --if-present",
-    "build:types": "npm run -w @commercelayer/demo-store-types build",
-    "test": "npm run test --workspaces --if-present",
-    "ts:check": "npm run ts:check --workspaces --if-present",
-    "test:data": "npm run test:data --workspaces --if-present",
-    "lint": "npm run lint --workspaces --if-present",
     "coverage": "npm run coverage --workspaces --if-present",
     "dep:upgrade:major": "npx --workspaces npm-check-updates -u",
     "dep:upgrade:minor": "npm run dep:upgrade:major -- --target minor",
