@@ -1,0 +1,808 @@
+[
+  {
+    "productCode": "HDDADA4T",
+    "variantCode": "HDDADA4T000000",
+    "sku": "HDDADA4T000000FFFFFF4TBX",
+    "slug": "/disco-duro-externo-adata-4tb-black/HDDADA4T000000FFFFFF4TBX",
+    "name": {
+      "es": "Disco Duro Externo ADATA 4TB BLACK"
+    },
+    "description": {
+      "es": "ADATA HD710 Pro — 4 TB portátiles con carcasa reforzada. Resistente IP68 contra polvo y agua y conexión USB 3.2 para transferencias rápidas. Ideal para copias de seguridad y uso en exteriores." 
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/18/HDDADA4TBHD710K-1-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA4TBHD710K-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA4TBHD710K-2-lg.webp"
+      ]
+    },
+    "color": "#000000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-HDDADA4T000000FFFFFF4TBX",
+      "amount_cents": "",
+      "discount": "$225",
+      "formatted_amount": "$225",
+      "created_at": "2026-06-09T00:00:00.000Z",
+      "updated_at": "2026-06-09T00:00:00.000Z"
+    }
+  },
+  {
+    "productCode": "HDDADA4T",
+    "variantCode": "HDDADA4T9D9CA1",
+    "sku": "HDDADA4T9D9CA1FFFFFF4TBX",
+    "slug": "/disco-duro-externo-adata-4tb-red/HDDADA4T9D9CA1FFFFFF4TBX",
+    "name": {
+      "es": "Disco Duro Externo ADATA 4TB RED"
+    },
+    "description": {
+      "es": "ADATA HD710 Pro — 4 TB portátiles con carcasa reforzada. Resistente IP68 contra polvo y agua y conexión USB 3.2 para transferencias rápidas. Ideal para copias de seguridad y uso en exteriores." 
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/18/HDDADA1TBHD710R-1-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA2TBHD710R-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA2TBHD710R-2-lg.webp"
+      ]
+    },
+    "color": "#FF0000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-HDDADA4T9D9CA1FFFFFF4TBX",
+      "amount_cents": "",
+      "discount": "$225",
+      "formatted_amount": "$225",
+      "created_at": "2026-06-09T00:00:00.000Z",
+      "updated_at": "2026-06-09T00:00:00.000Z"
+    }
+  },
+  {
+    "productCode": "HDDADA1T",
+    "variantCode": "HDDADA1T000000",
+    "sku": "HDDADA1T000000FFFFFF1TBX",
+    "slug": "/disco-duro-externo-adata-1tb-black/HDDADA1T000000FFFFFF1TBX",
+    "name": {
+      "es": "Disco Duro Externo ADATA 1TB BLACK"
+    },
+    "description": {
+      "es": "ADATA HD710 Pro — 1 TB portátil con carcasa reforzada. Resistente IP68 y USB 3.2 para transferencias rápidas. Diseñado para proteger tus datos en movilidad." 
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/18/HDDADA4TBHD710K-1-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA4TBHD710K-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA4TBHD710K-2-lg.webp"
+      ]
+    },
+    "color": "#000000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-HDDADA1T000000FFFFFF1TBX",
+      "amount_cents": "",
+      "discount": "$125",
+      "formatted_amount": "$125",
+      "created_at": "2026-06-09T00:00:00.000Z",
+      "updated_at": "2026-06-09T00:00:00.000Z"
+    }
+  },
+  {
+    "productCode": "HDDADA1T",
+    "variantCode": "HDDADA1T9D9CA1",
+    "sku": "HDDADA1T9D9CA1FFFFFF1TBX",
+    "slug": "/disco-duro-externo-adata-1tb-red/HDDADA1T9D9CA1FFFFFF1TBX",
+    "name": {
+      "es": "Disco Duro Externo ADATA 1TB RED"
+    },
+    "description": {
+      "es": "ADATA HD710 Pro — 1 TB portátil con carcasa reforzada. Resistente IP68 y USB 3.2 para transferencias rápidas. Diseñado para proteger tus datos en movilidad." 
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/18/HDDADA1TBHD710R-1-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA2TBHD710R-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA2TBHD710R-2-lg.webp"
+      ]
+    },
+    "color": "#FF0000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-HDDADA1T9D9CA1FFFFFF1TBX",
+      "amount_cents": "",
+      "discount": "$125",
+      "formatted_amount": "$125",
+      "created_at": "2026-06-09T00:00:00.000Z",
+      "updated_at": "2026-06-09T00:00:00.000Z"
+    }
+  },
+  {
+    "productCode": "HDDADA1T",
+    "variantCode": "HDDADA1T9D9CA2",
+    "sku": "HDDADA1T9D9CA2FFFFFF1TBX",
+    "slug": "/disco-duro-externo-adata-1tb-yellow/HDDADA1T9D9CA2FFFFFF1TBX",
+    "name": {
+      "es": "Disco Duro Externo ADATA 1TB YELLOW"
+    },
+    "description": {
+      "es": "ADATA HD710 Pro — 1 TB portátil con carcasa reforzada. Resistente IP68 y USB 3.2 para transferencias rápidas. Diseñado para proteger tus datos en movilidad." 
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/18/HDDADA1TBHD710Y-1-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA1TBHD710Y-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA1TBHD710Y-2-lg.webp"
+      ]
+    },
+    "color": "#FFFF00",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-HDDADA1T9D9CA2FFFFFF1TBX",
+      "amount_cents": "",
+      "discount": "$125",
+      "formatted_amount": "$125",
+      "created_at": "2026-06-09T00:00:00.000Z",
+      "updated_at": "2026-06-09T00:00:00.000Z"
+    }
+  },
+  {
+    "productCode": "HDDADA2T",
+    "variantCode": "HDDADA2T000000",
+    "sku": "HDDADA2T000000FFFFFF2TBX",
+    "slug": "/disco-duro-externo-adata-2tb-black/HDDADA2T000000FFFFFF2TBX",
+    "name": {
+      "es": "Disco Duro Externo ADATA 2TB BLACK"
+    },
+    "description": {
+      "es": "ADATA HD710 Pro — 2 TB portátiles con carcasa reforzada. Resistente IP68 y USB 3.2 para transferencias rápidas. Perfecto para backups y trabajo de campo." 
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/18/HDDADA4TBHD710K-1-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA4TBHD710K-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA4TBHD710K-2-lg.webp"
+      ]
+    },
+    "color": "#000000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-HDDADA2T000000FFFFFF2TBX",
+      "amount_cents": "",
+      "discount": "$155",
+      "formatted_amount": "$155",
+      "created_at": "2026-06-09T00:00:00.000Z",
+      "updated_at": "2026-06-09T00:00:00.000Z"
+    }
+  },
+  {
+    "productCode": "HDDADA2T",
+    "variantCode": "HDDADA2T9D9CA1",
+    "sku": "HDDADA2T9D9CA1FFFFFF2TBX",
+    "slug": "/disco-duro-externo-adata-2tb-red/HDDADA2T9D9CA1FFFFFF2TBX",
+    "name": {
+      "es": "Disco Duro Externo ADATA 2TB RED"
+    },
+    "description": {
+      "es": "ADATA HD710 Pro — 2 TB portátiles con carcasa reforzada. Resistente IP68 y USB 3.2 para transferencias rápidas. Perfecto para backups y trabajo de campo." 
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/18/HDDADA1TBHD710R-1-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA2TBHD710R-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA2TBHD710R-2-lg.webp"
+      ]
+    },
+    "color": "#FF0000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-HDDADA2T9D9CA1FFFFFF2TBX",
+      "amount_cents": "",
+      "discount": "$155",
+      "formatted_amount": "$155",
+      "created_at": "2026-06-09T00:00:00.000Z",
+      "updated_at": "2026-06-09T00:00:00.000Z"
+    }
+  },
+  {
+    "productCode": "HDDADA2T",
+    "variantCode": "HDDADA2T9D9CA2",
+    "sku": "HDDADA2T9D9CA2FFFFFF2TBX",
+    "slug": "/disco-duro-externo-adata-2tb-yellow/HDDADA2T9D9CA2FFFFFF2TBX",
+    "name": {
+      "es": "Disco Duro Externo ADATA 2TB YELLOW"
+    },
+    "description": {
+      "es": "ADATA HD710 Pro 2TB - resistente, IP68, USB 3.2."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/18/HDDADA2TBHD710Y-1-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA2TBHD710Y-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/18/HDDADA2TBHD710Y-2-lg.webp"
+      ]
+    },
+    "color": "#FFFF00",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-HDDADA2T9D9CA2FFFFFF2TBX",
+      "amount_cents": "",
+      "discount": "$155",
+      "formatted_amount": "$155",
+      "created_at": "2026-06-09T00:00:00.000Z",
+      "updated_at": "2026-06-09T00:00:00.000Z"
+    }
+  },
+  {
+    "productCode": "FMESNDZ5",
+    "variantCode": "FMESNDZ50B35016",
+    "sku": "FMESNDZ50B35016",
+    "slug": "/sandisk-16gb-cruzer-blade-usb-a-2.0-black-red/FMESNDZ50B35016",
+    "name": {
+      "es": "FLASH MEMORY SANDISK 16GB Cruzer Blade USB-A 2.0 Black-Red"
+    },
+    "description": {
+      "es": "SanDisk Cruzer Blade 16 GB — memoria USB compacta USB-A 2.0, ideal para almacenar y transportar documentos y fotos. Diseño resistente y práctico para uso diario."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZ50B35016-1-sm.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZ50B35016-2-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZ50B35016-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZ50B35016-2-lg.webp"
+      ]
+    },
+    "color": "#000000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-FMESNDZ50B35016",
+      "amount_cents": "",
+      "discount": "$11.91",
+      "formatted_amount": "$11.91",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "FMESNDZ5",
+    "variantCode": "FMESNDZ50C163BE",
+    "sku": "FMESNDZ50C163BE",
+    "slug": "/sandisk-16gb-cruzer-blade-usb-a-2.0-blue/FMESNDZ50C163BE",
+    "name": {
+      "es": "FLASH MEMORY SANDISK 16GB Cruzer Blade USB-A 2.0 Blue"
+    },
+    "description": {
+      "es": "SanDisk Cruzer Blade 16 GB — memoria USB compacta USB-A 2.0, ideal para almacenar y transportar documentos y fotos. Diseño resistente y práctico para uso diario."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/main/26/FMESNDZ50C163BE.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/26/FMESNDZ50C163BE-1-lg.webp"
+      ]
+    },
+    "color": "#0000FF",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-FMESNDZ50C163BE",
+      "amount_cents": "",
+      "discount": "$11.91",
+      "formatted_amount": "$11.91",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "FMESNDZ3",
+    "variantCode": "FMESNDZ3032GB35",
+    "sku": "FMESNDZ3032GB35",
+    "slug": "/sandisk-32gb-cruzer-blade-usb-a-2.0-black-red/FMESNDZ3032GB35",
+    "name": {
+      "es": "FLASH MEMORY SANDISK 32GB Cruzer Blade USB-A 2.0 Black-Red"
+    },
+    "description": {
+      "es": "SanDisk Cruzer Blade 32 GB — memoria USB USB-A 2.0, capacidad de 32 GB para fotos, videos y archivos. Compacta y ligera para llevar en el llavero."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/26/FMESNDZ5032GB35-2-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/26/FMESNDZ5032GB35-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/26/FMESNDZ5032GB35-2-lg.webp"
+      ]
+    },
+    "color": "#000000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-FMESNDZ5032GB35",
+      "amount_cents": "",
+      "discount": "$13.62",
+      "formatted_amount": "$13.62",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "FMESNUZ4",
+    "variantCode": "FMESNUZ430032GK",
+    "sku": "FMESNUZ430032GK",
+    "slug": "/sandisk-32gb-ultra-fit-usb-3.2-black/FMESNUZ430032GK",
+    "name": {
+      "es": "FLASH MEMORY SANDISK 32GB ULTRA FIT USB 3.2 Black"
+    },
+    "description": {
+      "es": "SanDisk Ultra Fit 32 GB — memoria USB tipo perfil bajo con interfaz USB 3.2 para transferencias rápidas. Ideal para almacenamiento expandido en portátiles y dispositivos compatibles."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZ430032GK-1-sm.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZ430032GK-2-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZ430032GK-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZ430032GK-2-lg.webp"
+      ]
+    },
+    "color": "#000000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-FMESNUZ430032GK",
+      "amount_cents": "",
+      "discount": "$18.38",
+      "formatted_amount": "$18.38",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "FMESNPZ4",
+    "variantCode": "FMESNPZ410064C3",
+    "sku": "FMESNPZ410064C3",
+    "slug": "/sandisk-64gb-ultra-shift-usb-a-3.2-purple/FMESNPZ410064C3",
+    "name": {
+      "es": "FLASH MEMORY SANDISK 64GB ULTRA SHIFT USB-A 3.2 Purple"
+    },
+    "description": {
+      "es": "SanDisk Ultra Shift 64 GB — memoria USB USB-A 3.2, diseño deslizante para protección del conector. Buena capacidad y velocidades adecuadas para uso diario."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZ410064C3-1-sm.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZ410064C3-2-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZ410064C3-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZ410064C3-2-lg.webp"
+      ]
+    },
+    "color": "#800080",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-FMESNPZ410064C3",
+      "amount_cents": "",
+      "discount": "$19.33",
+      "formatted_amount": "$19.33",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "FMESNDZ4",
+    "variantCode": "FMESNDZ43064GBK",
+    "sku": "FMESNDZ43064GBK",
+    "slug": "/sandisk-64gb-ultra-fit-usb-3.2-black/FMESNDZ43064GBK",
+    "name": {
+      "es": "FLASH MEMORY SANDISK 64GB ULTRA FIT USB 3.2 Black"
+    },
+    "description": {
+      "es": "SanDisk Ultra Fit 64 GB — memoria USB de perfil bajo con USB 3.2, pensada para transferencias rápidas y uso continuo en portátiles y sistemas de entretenimiento."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZ43064GBK-1-sm.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZ43064GBK-2-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZ43064GBK-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZ43064GBK-2-lg.webp"
+      ]
+    },
+    "color": "#000000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-FMESNDZ43064GBK",
+      "amount_cents": "",
+      "discount": "$31.23",
+      "formatted_amount": "$31.23",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "FMESNDZI",
+    "variantCode": "FMESNDZIC64G46L",
+    "sku": "FMESNDZIC64G46L",
+    "slug": "/sandisk-64gb-crayola-usb-c-electric-lime/FMESNDZIC64G46L",
+    "name": {
+      "es": "FLASH MEMORY SANDISK 64GB Crayola USB-C Electric Lime"
+    },
+    "description": {
+      "es": "SanDisk Crayola 64 GB USB-C — memoria con conector USB-C y diseño colorido. Capacidad 64 GB para archivos multimedia y compatibilidad con dispositivos modernos."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZIC64G46L-1-sm.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZIC64G46L-2-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZIC64G46L-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZIC64G46L-2-lg.webp"
+      ]
+    },
+    "color": "#CCFF00",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-FMESNDZIC64G46L",
+      "amount_cents": "",
+      "discount": "$35.42",
+      "formatted_amount": "$35.42",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "FMESNDZI",
+    "variantCode": "FMESNDZIC64G46O",
+    "sku": "FMESNDZIC64G46O",
+    "slug": "/sandisk-64gb-crayola-usb-c-mango-tango/FMESNDZIC64G46O",
+    "name": {
+      "es": "FLASH MEMORY SANDISK 64GB Crayola USB-C Mango Tango"
+    },
+    "description": {
+      "es": "SanDisk Crayola 64 GB USB-C — memoria con conector USB-C y diseño colorido. Capacidad 64 GB para archivos multimedia y compatibilidad con dispositivos modernos."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZIC64G46O-1-sm.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZIC64G46O-2-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZIC64G46O-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZIC64G46O-2-lg.webp"
+      ]
+    },
+    "color": "#FF8C00",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-FMESNDZIC64G46O",
+      "amount_cents": "",
+      "discount": "$35.42",
+      "formatted_amount": "$35.42",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+      {
+    "productCode": "FMEADAPP",
+    "variantCode": "FMEADAPP350256K",
+    "sku": "FMEADAPP350256K",
+    "slug": "/adata-256gb-ur350-usb3.2-black/FMEADAPP350256K",
+    "name": {
+      "es": "FLASH MEMORY SANDISK 256GB Smurfs USB-A 5y Blue"
+    },
+    "description": {
+      "es": "Memoria USB ADATA UR350 256 GB — alta capacidad y conexión USB 3.2 para transferencias rápidas. Ideal para almacenar colecciones de fotos, videos y documentos pesados."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/main/25/FMESNDCZIS256G4.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDCZIS256G4-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDCZIS256G4-2-lg.webp"
+      ]
+    },
+    "color": "#0000FF",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-FMEADAPP350256K",
+      "amount_cents": "",
+      "discount": "$39",
+      "formatted_amount": "$39",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "FMESWDZ4",
+    "variantCode": "FMESWDZ430128GK",
+    "sku": "FMESWDZ430128GK",
+    "slug": "/sandisk-128gb-ultra-fit-usb-3.2-black/FMESWDZ430128GK",
+    "name": {
+      "es": "FLASH MEMORY SANDISK 128GB ULTRA FIT USB 3.2 Black"
+    },
+    "description": {
+      "es": "Memoria USB de alta velocidad - Black"
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMESNDZ430128GK-1-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZ430128GK-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMESNDZ430128GK-2-lg.webp"
+      ]
+    },
+    "color": "#000000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-FMESWDZ430128GK",
+      "amount_cents": "",
+      "discount": "$46.89",
+      "formatted_amount": "$46.89",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "FMEADAUR",
+    "variantCode": "FMEADAUR350256B",
+    "sku": "FMEADAUR350256B",
+    "slug": "/adata-256gb-ur350-usb3.2-beige/FMEADAUR350256B",
+    "name": {
+      "es": "FLASH MEMORY ADATA 256GB UR350 USB3.2 Beige"
+    },
+    "description": {
+      "es": "Memoria USB de alta velocidad - Beige"
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMEADAUR350256B-1-sm.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMEADAUR350256B-2-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMEADAUR350256B-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMEADAUR350256B-2-lg.webp"
+      ]
+    },
+    "color": "#F5F5DC",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-FMEADAUR350256B",
+      "amount_cents": "",
+      "discount": "$89.80",
+      "formatted_amount": "$89.80",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "FMEADAUR",
+    "variantCode": "FMEADAUR350256K",
+    "sku": "FMEADAUR350256K",
+    "slug": "/adata-256gb-ur350-usb3.2-black/FMEADAUR350256K",
+    "name": {
+      "es": "FLASH MEMORY ADATA 256GB UR350 USB3.2 Black"
+    },
+    "description": {
+      "es": "Memoria USB de alta velocidad - Black"
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMEADAUR350256K-1-sm.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/FMEADAUR350256K-2-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMEADAUR350256K-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/FMEADAUR350256K-2-lg.webp"
+      ]
+    },
+    "color": "#000000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-FMEADAUR350256K",
+      "amount_cents": "",
+      "discount": "$89.80",
+      "formatted_amount": "$89.80",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "CABXXXSDATA",
+    "variantCode": "CABXXXSDATA000",
+    "sku": "CABXXXSDATA",
+    "slug": "/cable-serial-data-038cmts/CABXXXSDATA",
+    "name": {
+      "es": "CABLE SERIAL DATA 0.38CMTS"
+    },
+    "description": {
+      "es": "Cable serial de datos ultra compacto de 0.38 cm, ideal para conexiones de puerto serie en sistemas legacy y dispositivos industriales. Su perfil delgado permite acceso en espacios reducidos y es compatible con equipos de control y programación de sistemas embebidos."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/24/CABXXXSDATA-2-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/24/CABXXXSDATA-2-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/24/CABXXXSDATA-3-lg.webp"
+      ]
+    },
+    "color": "#FF0000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-CABXXXSDATA",
+      "amount_cents": "",
+      "discount": "$2.49",
+      "formatted_amount": "$2.49",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "CABXXXCRDCT62MT",
+    "variantCode": "CABXXXCRDCT62MT000",
+    "sku": "CABXXXCRDCT62MT",
+    "slug": "/cable-de-red-cat6-awx-2-metros-baige/CABXXXCRDCT62MT",
+    "name": {
+      "es": "CABLE DE RED CAT6 AWX 2 METROS BAIGE"
+    },
+    "description": {
+      "es": "Cable de red Cat6 de 2 metros en color beige que soporta velocidades de hasta 10 Gbps, perfecto para conexiones entre equipos de red, switches y routers en distancias cortas. Certificado para transmisión de datos confiable en entornos de oficina y hogares inteligentes."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/CABXXXCRDCT62MT-1-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/CABXXXCRDCT62MT-1-lg.webp"
+      ]
+    },
+    "color": "negro",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-CABXXXCRDCT62MT",
+      "amount_cents": "",
+      "discount": "$3.48",
+      "formatted_amount": "$3.48",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "CABXXXCRDCT63MT",
+    "variantCode": "CABXXXCRDCT63MT000",
+    "sku": "CABXXXCRDCT63MT",
+    "slug": "/cable-de-red-cat6-awx-3-metros/CABXXXCRDCT63MT",
+    "name": {
+      "es": "CABLE DE RED CAT6 AWX 3 METROS BAIGE"
+    },
+    "description": {
+      "es": "Cable de red Cat6 de 3 metros que proporciona conectividad Gigabit robusta para servidores, computadoras y dispositivos de red con velocidades de hasta 10 Gbps. Ideal para espacios medianos, salas de datos pequeñas y configuraciones de red escalables."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/CABXXXCRDCT63MT-1-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/CABXXXCRDCT63MT-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/CABXXXCRDCT63MT-2-lg.webp"
+      ]
+    },
+    "color": "negro",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-CABXXXCRDCT63MT",
+      "amount_cents": "",
+      "discount": "$3.88",
+      "formatted_amount": "$3.88",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "CABXXXCRDCT610M",
+    "variantCode": "CABXXXCRDCT610M000",
+    "sku": "CABXXXCRDCT610M",
+    "slug": "/cable-de-red-cat6-awx-10-metros/CABXXXCRDCT610M",
+    "name": {
+      "es": "CABLE DE RED CAT6 AWX 10 METROS BAIGE"
+    },
+    "description": {
+      "es": "Cable de red Cat6 de 10 metros diseñado para conexiones de larga distancia en redes corporativas, centros de datos y sistemas de vigilancia profesional, manteniendo velocidades Gigabit hasta 10 Gbps. Garantiza transmisión estable de datos en instalaciones grandes y complejas."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/25/CABXXXCRDCT610M-1-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/CABXXXCRDCT610M-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/25/CABXXXCRDCT610M-2-lg.webp"
+      ]
+    },
+    "color": "#FFFFFF",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-CABXXXCRDCT610M",
+      "amount_cents": "",
+      "discount": "$5.63",
+      "formatted_amount": "$5.63",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  },
+  {
+    "productCode": "CABARGCB-0047BK",
+    "variantCode": "CABARGCB-0047BK000",
+    "sku": "CABARGCB-0047BK",
+    "slug": "/cable-argom-cb-0047bk-type-c-to-type-c-65w-nylon-18m-black/CABARGCB-0047BK",
+    "name": {
+      "es": "CABLE ARGOM CB-0047BK TYPE-C TO TYPE-C 65 W NYLON 1.8M BLACK"
+    },
+    "description": {
+      "es": "Cable Type-C a Type-C de 1.8 metros con carcasa de nylon reforzado y capacidad de carga rápida de 65W, compatible con laptops, tablets y dispositivos móviles premium. Su construcción duradera lo hace ideal para uso profesional intensivo, sincronización y transferencia de datos de alta velocidad."
+    },
+    "images": {
+      "sm": [
+        "https://coretms.tecnomegastore.ec/assets/images/sm/23/CABARGCB-0047BK-2-sm.webp"
+      ],
+      "lg": [
+        "https://coretms.tecnomegastore.ec/assets/images/lg/23/CABARGCB-0047BK-1-lg.webp",
+        "https://coretms.tecnomegastore.ec/assets/images/lg/23/CABARGCB-0047BK-2-lg.webp"
+      ]
+    },
+    "color": "#000000",
+    "available": true,
+    "price": {
+      "type": "prices",
+      "id": "price-CABARGCB-0047BK",
+      "amount_cents": "",
+      "discount": "$7.30",
+      "formatted_amount": "$7.30",
+      "created_at": "2026-06-09T10:51:33.324424Z",
+      "updated_at": "2026-06-09T10:51:33.324424Z"
+    }
+  }
+]

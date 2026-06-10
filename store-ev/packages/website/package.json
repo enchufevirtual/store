@@ -1,0 +1,73 @@
+{
+  "name": "store-enchufevirtual",
+  "version": "1.0.0",
+  "description": "Store catalog website for Enchufe Virtual - store.enchufevirtual.com",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soychendo/store.git"
+  },
+  "homepage": "https://store.enchufevirtual.com",
+  "keywords": [
+    "store",
+    "EnchufeVirtual"
+  ],
+  "author": "@soychendo <chendoec@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "predeploy": "npm run build && echo store.enchufevirtual.com > ./out/CNAME && touch ./out/.nojekyll",
+    "deploy": "gh-pages -t -d out",
+    "build": "next build --webpack",
+    "postbuild": "next-sitemap",
+    "start": "next start",
+    "dev": "next dev --webpack",
+    "local:build": "dotenv -c local npm run build",
+    "local:start": "npm start",
+    "local:serve": "npx serve out",
+    "lint": "npm exec eslint ./src/",
+    "ts:check": "tsc --noEmit && npm run test:data",
+    "test:data": "node data/runTestData.js",
+    "test": "jest --testPathIgnorePatterns ./data",
+    "coverage": "jest --coverage",
+    "lighthouse": "npx -p @lhci/cli lhci autorun"
+  },
+  "dependencies": {
+    "@commercelayer/demo-store-types": "^5.3.0",
+    "@svgr/webpack": "^8.1.0",
+    "@types/lodash": "^4.17.23",
+    "fuse.js": "^7.1.0",
+    "immer": "^10.2.0",
+    "lodash": "^4.17.23",
+    "next": "^16.1.5",
+    "next-localization": "^0.12.0",
+    "react": "^19",
+    "react-dom": "^19",
+    "react-remark": "^2.1.0",
+    "swiper": "^12.0.3",
+    "use-immer": "^0.11.0"
+  },
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "5.15.6",
+    "@tailwindcss/postcss": "^4.1.18",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "autoprefixer": "^10.4.23",
+    "dotenv-cli": "^11.0.0",
+    "eslint": "9.39.1",
+    "eslint-config-next": "16.1.5",
+    "gh-pages": "^6.3.0",
+    "jest": "^30.2.0",
+    "jest-environment-jsdom": "^30.2.0",
+    "next-sitemap": "^4.2.3",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "ts-jest": "^29.4.6",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">= 20.9"
+  }
+}

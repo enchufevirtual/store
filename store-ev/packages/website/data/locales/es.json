@@ -1,0 +1,45 @@
+{
+  "general": {
+    "viewAll": "Ver todo",
+    "all": "Todo",
+    "search": "buscar",
+    "addToCart": "Agregar al carrito",
+    "chooseCountry": "Elegir país",
+    "international": "Internacional",
+    "resultsFor": "{{count}} resultados para \"{{query}}\"",
+    "noProducts": "Aún no hay productos",
+    "countrySelector": {
+      "chooseCountry": "Elegir país",
+      "otherCountries": "Otros países"
+    }
+  },
+  "seo": {
+    "title": "Enchufe Virtual Store",
+    "description": "Tienda de productos Estática."
+  },
+  "search": {
+    "variants": {
+      "color": "Colores",
+      "size": "Elegir tamaño"
+    },
+    "facets": {
+      "gender": "Género",
+      "category": "Categoría",
+      "price": {
+        "amount_float": "Precio"
+      },
+      "available": "Mostrar solo disponibles",
+      "color": "Color",
+      "size": "Tamaño"
+    },
+    "values": {
+      "#000000": "Negro",
+      "#FFFFFF": "Blanco",
+      "#C2C2C2": "Gris",
+      "#E7DDC7": "Beige"
+    }
+  },
+  "product": {
+    "description": "Información del producto"
+  }
+}

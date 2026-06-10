@@ -1,0 +1,25 @@
+name: Release
+
+permissions:
+  contents: write
+  discussions: write
+
+on:
+  push:
+    tags: ["v*"]
+
+jobs:
+  github_release:
+    name: Trigger GitHub release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v5
+
+      - name: Create a draft GitHub release 🎁
+        uses: ncipollo/release-action@v1
+        with:
+          draft: true
+          prerelease: ${{ contains(github.ref, 'beta.') }}
+          generateReleaseNotes: true
+          discussionCategory: Announcements

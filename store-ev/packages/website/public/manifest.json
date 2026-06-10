@@ -1,0 +1,11 @@
+{
+  "name": "Enchufe Virtual Store",
+  "short_name": "EV Store",
+  "description": "Official product catalog of Enchufe Virtual.",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}

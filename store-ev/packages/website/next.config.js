@@ -1,0 +1,47 @@
+// @ts-check
+
+const { resolve } = require('path')
+const { isSupportedUrl } = require('./src/utils/isSupportedUrl')
+
+/** @type { import('./additional-env').StoreEvEnvs } */
+const envs = require('./src/utils/envs')
+
+/** @type { import('next').NextConfig } */
+const nextConfig = {
+  // https://nextjs.org/docs/api-reference/next.config.js/react-strict-mode
+  reactStrictMode: true,
+
+  // https://nextjs.org/docs/api-reference/next.config.js/custom-page-extensions#including-non-page-files-in-the-pages-directory
+  pageExtensions: ['page.tsx', `page-${envs.NEXT_PUBLIC_DATA_FETCHING}.tsx`],
+
+  // https://nextjs.org/docs/advanced-features/output-file-tracing
+  output: envs.NEXT_PUBLIC_DATA_FETCHING === 'ssg' ? 'export' : 'standalone',
+
+  // https://nextjs.org/docs/api-reference/next.config.js/basepath
+  basePath: envs.NEXT_PUBLIC_BASE_PATH.length > 1 ? envs.NEXT_PUBLIC_BASE_PATH : undefined,
+
+  env: envs,
+
+  // turbopack: {
+  //   resolveAlias: {
+  //     '#config': resolve(__dirname, envs.NEXT_PUBLIC_CONFIG_FOLDER),
+  //     aliasJsonData: resolve(__dirname, isSupportedUrl(envs.NEXT_PUBLIC_JSON_DATA_FOLDER) ? 'empty' : envs.NEXT_PUBLIC_JSON_DATA_FOLDER),
+  //     aliasLocalesData: resolve(__dirname, isSupportedUrl(envs.NEXT_PUBLIC_LOCALES_DATA_FOLDER) ? 'empty' : envs.NEXT_PUBLIC_LOCALES_DATA_FOLDER),
+  //   },
+  // },
+
+  webpack(config) {
+    config.module.rules.push({
+      test: /\.svg$/,
+      use: ['@svgr/webpack']
+    })
+
+    config.resolve.alias['#config'] = resolve(__dirname, envs.NEXT_PUBLIC_CONFIG_FOLDER)
+    config.resolve.alias['aliasJsonData'] = resolve(__dirname, isSupportedUrl(envs.NEXT_PUBLIC_JSON_DATA_FOLDER) ? 'empty' : envs.NEXT_PUBLIC_JSON_DATA_FOLDER)
+    config.resolve.alias['aliasLocalesData'] = resolve(__dirname, isSupportedUrl(envs.NEXT_PUBLIC_LOCALES_DATA_FOLDER) ? 'empty' : envs.NEXT_PUBLIC_LOCALES_DATA_FOLDER)
+
+    return config
+  }
+}
+
+module.exports = nextConfig
