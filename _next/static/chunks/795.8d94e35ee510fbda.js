@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[795],{14795:o=>{o.exports=JSON.parse('[{"id":"catalog_1","name":"AMER","taxonomies":["taxonomy_1","taxonomy_4"]},{"id":"catalog_2","name":"EMEA","taxonomies":["taxonomy_2","taxonomy_4"]},{"id":"catalog_3","name":"APAC","taxonomies":["taxonomy_3","taxonomy_5"]}]')}}]);

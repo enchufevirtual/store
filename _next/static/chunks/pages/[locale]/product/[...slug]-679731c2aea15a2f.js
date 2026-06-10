@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[900],{18846:(_,u,e)=>{"use strict";e.r(u),e.d(u,{__N_SSG:()=>n,default:()=>s.u});var s=e(43303),n=!0},23758:(_,u,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/[locale]/product/[...slug]",function(){return e(18846)}])}},_=>{_.O(0,[940,968,831,565,237,303,636,593,792],()=>_(_.s=23758)),_N_E=_.O()}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[200],{66200:e=>{e.exports=JSON.parse('{"name":"Enchufe Virtual","favicon_url":"https://github.com/enchufevirtual/enchufevirtual.github.io/blob/main/public/assets/favicon.png","primary_color":"#666EFF"}')}}]);
